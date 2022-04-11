@@ -34,6 +34,15 @@ https://www.kaggle.com/datasets/lkuehl/art-transfer-discrimination-model-resv2: 
 `ASEWA_Art_Epoch_Discrimination_ResNet.ipynb`: Calculates the accuracies of the art style classification by the Art-Transfer-Discrimination model.
 
 ## Visualization
-### Exploration Visualization
-`ASEWA_Visualisation_Artistic_Style_Transfer_Exploration.ipynb`: Visualizes architecture of 
+`ASEWA_Visualisation_Artistic_Style_Transfer_Exploration.ipynb`: Visualizing different architectures, exploring weights and performing mass Style Transfer.
+
+## Datasets
+### Style Dataset
+https://www.kaggle.com/datasets/torres07/art-movements: 'Art Movement' dataset used as style images.
+
+### Results Art Style Transfer
+- ResNet Style Transferred images: https://www.kaggle.com/datasets/lkuehl/resnet-style-transferred-images
+- VGG Style Transferred Images with Noise Image as Input: https://www.kaggle.com/datasets/lkuehl/vgg19-augmented-from-noise
+- VGG Style Transferred Images with Content Image as Input: https://www.kaggle.com/datasets/lkuehl/vgg19-augmented-from-content-image
+
 
