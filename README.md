@@ -48,4 +48,5 @@ https://www.kaggle.com/datasets/torres07/art-movements: 'Art Movement' dataset u
 - VGG Style Transferred Images with Noise Image as Input: https://www.kaggle.com/datasets/lkuehl/vgg19-augmented-from-noise
 - VGG Style Transferred Images with Content Image as Input: https://www.kaggle.com/datasets/lkuehl/vgg19-augmented-from-content-image
 
-
+## Paper
+`Artistic_Style_Exploration_With_ANNs.pdf`: The paper that explains our project, the experiments and studies that were conducted and different approaches to different problems.
