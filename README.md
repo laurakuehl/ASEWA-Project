@@ -16,7 +16,7 @@ To ensure a better understanding of the project and the different experiments an
 - Datasets
 
 ## Paper
-`Artistic_Style_Exploration_With_ANNs.pdf`: The paper that explains our project, the experiments and studies that were conducted and different approaches to different problems.
+`Artistic_Style_Exploration_With_ANNs.pdf`: The paper that explains our project, the experiments and studies that were conducted and different approaches to different problems regarding the artistic style transfer using artificial neural networks.
 
 ## VGG19
 ### Own Model and Training
