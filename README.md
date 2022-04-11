@@ -10,3 +10,14 @@ In this project, we explore the artistic style transfer performed with CNNs like
 - ResNet classifying the art style of an image
 - Visualization scripts
 - Paper "Artistic Style Exploration with Artificial Neural Networks" that explains our approach and results
+
+## VGG19
+
+### Own Model and Training
+`ASEWA_Own_Model.ipynb` contains a self-implemented VGG19 model, its training and the Style Transfer performed on a content image of a Labrador and a Kandinsky style image.
+
+### Own Model and Loaded Weights
+`ASEWA_VGG19_Own_Model_Plus_Weights.ipynb`: Uses the own VGG19 implementation but loads weights from a pretrained model that was trained with Imagenet data.
+
+### Pretrained VGG19
+`ASEWA_VGG19_Pretrained_Model.ipynb`: Taking a pretrained VGG19 and performing the Style Transfer
