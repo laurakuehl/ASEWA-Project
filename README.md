@@ -8,12 +8,15 @@ In this project, we explore the artistic style transfer performed with CNNs like
 To ensure a better understanding of the project and the different experiments and explorations that were conducted, we suggest to have a look at the code in the order of this ReadMe document. 
 
 ## Contents
+- Paper "Artistic Style Exploration with Artificial Neural Networks" 
 - VGG19 performing the Style Transfer
 - ResNet50 performing the Style Transfer
 - ResNet classifying the art style of an image
 - Visualization scripts
 - Datasets
-- Paper "Artistic Style Exploration with Artificial Neural Networks" that explains our approach and results
+
+## Paper
+`Artistic_Style_Exploration_With_ANNs.pdf`: The paper that explains our project, the experiments and studies that were conducted and different approaches to different problems.
 
 ## VGG19
 ### Own Model and Training
@@ -47,6 +50,3 @@ https://www.kaggle.com/datasets/torres07/art-movements: 'Art Movement' dataset u
 - ResNet Style Transferred images: https://www.kaggle.com/datasets/lkuehl/resnet-style-transferred-images
 - VGG Style Transferred Images with Noise Image as Input: https://www.kaggle.com/datasets/lkuehl/vgg19-augmented-from-noise
 - VGG Style Transferred Images with Content Image as Input: https://www.kaggle.com/datasets/lkuehl/vgg19-augmented-from-content-image
-
-## Paper
-`Artistic_Style_Exploration_With_ANNs.pdf`: The paper that explains our project, the experiments and studies that were conducted and different approaches to different problems.
