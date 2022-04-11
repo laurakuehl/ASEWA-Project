@@ -26,7 +26,7 @@ To ensure a better understanding of the project and the different experiments an
 `ASEWA_VGG19_Pretrained_Model.ipynb`: Taking a pretrained VGG19 and performing the Style Transfer.
 
 ## ResNet50
-`ASEWA-ResNet50.ipynb`: The Style Transfer using a pretrained ResNet50 and adjusted Style Extraction and Training models.
+`ASEWA_ResNet50.ipynb`: The Style Transfer using a pretrained ResNet50 and adjusted Style Extraction and Training models.
 
 ## Art Discrimination Model
 ### Art Transfer Discrimination Model
